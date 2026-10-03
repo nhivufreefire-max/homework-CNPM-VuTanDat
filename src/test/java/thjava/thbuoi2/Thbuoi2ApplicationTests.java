@@ -1,0 +1,13 @@
+package thjava.thbuoi2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Thbuoi2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
